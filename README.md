@@ -1,4 +1,4 @@
-# Computer_Architecture
+# Computer Architecture
 프로그래밍 관점에서 바라보는 컴퓨터 구조
 
 ### Ch. 1 - 컴퓨터 내부 데이터 표현  
@@ -11,4 +11,5 @@
 * [부울 대수 법칙](https://kangdy25.tistory.com/59?category=1040262) 
 * [카르노 맵 간략화](https://kangdy25.tistory.com/61?category=1040262) 
 * [멀티플렉서, 디-멀티플렉서](https://kangdy25.tistory.com/64?category=1040262) 
-* [이진 디코더, 이진 인코더](#)
+* [이진 디코더, 이진 인코더](https://kangdy25.tistory.com/65)
+### CH. 4 - 순서 논리 회로
