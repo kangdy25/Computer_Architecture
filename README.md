@@ -13,3 +13,7 @@
 * [멀티플렉서, 디-멀티플렉서](https://kangdy25.tistory.com/64?category=1040262) 
 * [이진 디코더, 이진 인코더](https://kangdy25.tistory.com/65)
 ### CH. 4 - 순서 논리 회로
+* [순서 논리 회로의 특성](https://kangdy25.tistory.com/68)
+* [레벨 트리거, 에지 트리거](#)
+* [플립플랍](#)
+* [카운터 회로](#)
