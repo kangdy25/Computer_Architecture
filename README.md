@@ -17,6 +17,6 @@
 * [이진 디코더, 이진 인코더](https://kangdy25.tistory.com/65)
 ### CH. 4 - 순서 논리 회로
 * [순서 논리 회로의 특성](https://kangdy25.tistory.com/68)
-* [레벨 트리거, 에지 트리거](#)
+* [레벨 트리거, 에지 트리거](https://kangdy25.tistory.com/70)
 * [플립플랍](#)
 * [카운터 회로](#)
