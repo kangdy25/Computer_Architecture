@@ -21,6 +21,7 @@
 * [플립플롭](https://kangdy25.tistory.com/71?category=1040262)
 ### CH. 5 - 컴퓨터 하드웨어
 * [중앙처리장치(CPU)](https://kangdy25.tistory.com/109)
+* [기억 장치](https://kangdy25.tistory.com/110)
 ### CH. 6 - 기계어와 어셈블리어 프로그래밍
 
 ### CH. 7 - 가상 머신
