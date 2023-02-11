@@ -22,7 +22,7 @@
 ### CH. 5 - 컴퓨터 하드웨어
 * [중앙처리장치 (CPU)](https://kangdy25.tistory.com/109)
 * [기억 장치 (Computer Data Storage)](https://kangdy25.tistory.com/110)
-*[입출력 장치 (I/O Device)](https://kangdy25.tistory.com/111)
+* [입출력 장치 (I/O Device)](https://kangdy25.tistory.com/111)
 ### CH. 6 - 기계어와 어셈블리어 프로그래밍
 
 ### CH. 7 - 가상 머신
