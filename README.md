@@ -34,7 +34,7 @@
 * [입출력 장치 (I/O Device)](https://kangdy25.tistory.com/111)
 * [버스 (Bus)](https://kangdy25.tistory.com/113)
 ### CH. 6 - 기계어와 어셈블리어 프로그래밍
-
+* [기계어와 어셈블리어 (Machine Language, Assembly Language)](https://kangdy25.tistory.com/114)
 ### CH. 7 - 가상 머신
 
 ### CH. 8 - 병렬 컴퓨터
