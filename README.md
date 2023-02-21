@@ -35,6 +35,7 @@
 * [버스 (Bus)](https://kangdy25.tistory.com/113)
 ### CH. 6 - 기계어와 어셈블리어 프로그래밍
 * [기계어와 어셈블리어 (Machine Language, Assembly Language)](https://kangdy25.tistory.com/114)
+* [명령어 집합 (Instruction Set Architecture)](https://kangdy25.tistory.com/115)
 ### CH. 7 - 가상 머신
 
 ### CH. 8 - 병렬 컴퓨터
