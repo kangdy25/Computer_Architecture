@@ -1,4 +1,4 @@
-# 🖥 컴퓨터 구조 🖥
+# 🖥 컴퓨터 구조 (Computer Architecture) 🖥
 <img src = "https://user-images.githubusercontent.com/58673491/188119463-565ce04d-3038-49b5-80d6-fd01de49cd09.png"/>
 
 - - -
