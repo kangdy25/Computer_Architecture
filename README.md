@@ -36,7 +36,7 @@
 * [기계어와 어셈블리어 (Machine Language, Assembly Language)](https://kangdy25.tistory.com/114)
 * [명령어 집합 (Instruction Set Architecture)](https://kangdy25.tistory.com/115)
 ### CH. 7 - 가상 머신
-
+* [가상 머신 (Virtual Machines)](https://kangdy25.tistory.com/116)
 ### CH. 8 - 병렬 컴퓨터
 
 ### CH. 9 - 클라우드 컴퓨팅
