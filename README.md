@@ -38,5 +38,5 @@
 ### CH. 7 - 가상 머신
 * [가상 머신 (Virtual Machines)](https://kangdy25.tistory.com/116)
 ### CH. 8 - 병렬 컴퓨터
-
+* [병렬 컴퓨터 (Parallel Computer)](https://kangdy25.tistory.com/117)
 ### CH. 9 - 클라우드 컴퓨팅
