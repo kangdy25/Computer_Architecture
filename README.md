@@ -40,3 +40,4 @@
 ### CH. 8 - 병렬 컴퓨터
 * [병렬 컴퓨터 (Parallel Computer)](https://kangdy25.tistory.com/117)
 ### CH. 9 - 클라우드 컴퓨팅
+* [클라우드 컴퓨팅 (Cloud Computing)](https://kangdy25.tistory.com/118)
